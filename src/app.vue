@@ -33,12 +33,15 @@
 </template>
 
 <script>
-export default {};
+export default {
+  
+};
 </script>
 
 <style lang="scss" scoped>
 .app-con {
   padding-top: 40px;
+  padding-bottom: 50px;
   overflow-x: hidden;
 }
 .v-enter {
